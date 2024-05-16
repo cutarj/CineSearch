@@ -21,19 +21,6 @@ CineSearch is a simple and intuitive mobile application that allows users to exp
   - Recommendations List
   - Ability to add movies to favorites
 
-## Tech Stacks
-
-- **Swift**: The programming language used for iOS app development.
-- **SwiftUI**: A user interface toolkit for building declarative UIs in Swift.
-- **Realm**: A mobile database solution used for storing and managing app data.
-- **RealmSwift**: The Swift version of Realm, used for interacting with the Realm database in Swift apps.
-- **SPM**: Swift Package Manager, used for managing dependencies in Swift projects.
-- **AVKit**: A framework used for displaying and controlling audiovisual content in iOS apps.
-- **WebKit**: A framework used for displaying web content in iOS apps.
-- **MediaPlayer**: A framework used for playing audio and video content in iOS apps.
-- **MVVM (Model-View-ViewModel)**: A design pattern used to separate the presentation layer from the business logic in iOS apps.
-- **TMDB API**: The Movie Database API, used for fetching movie data such as titles, descriptions, images, and more.
-
 ## Usage
 
 * Launch the app on your iOS device.
@@ -42,6 +29,16 @@ CineSearch is a simple and intuitive mobile application that allows users to exp
 * Mark movies as favorites by tapping the "Add to Favorites" button.
 * Access previously visited movies by tapping the "Previously Visited" button.
 * View favorite movies in the Favorites Screen.
+
+## Tech Stacks
+
+<img src="https://github.com/cutarj/CineSearch/assets/90694104/9e258aad-3078-42da-8937-6d7847eab383" alt="CineSearch" width="20"/> **Swift**
+
+<img src="https://github.com/cutarj/CineSearch/assets/90694104/9b5fb606-cd9e-47e7-9a3a-e7ace46763e7" alt="CineSearch" width="20"/> **SwiftUI**
+
+<img src="https://github.com/cutarj/CineSearch/assets/90694104/afbfd269-70b9-44e6-b36e-e951e8c93976" alt="CineSearch" width="20"/> **Realm**
+
+<img src="https://github.com/cutarj/CineSearch/assets/90694104/65501450-1d9e-45e9-8126-bb2d5e94f5a6" alt="CineSearch" width="20"/> **TMDB API**
 
 ## Authors
 
